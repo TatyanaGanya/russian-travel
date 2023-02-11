@@ -1,0 +1,15 @@
+.header__lang-links {
+  position: absolute;
+  top: 46px;
+  right: 48px;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  width: 78px;
+
+
+}
+
+.header__lang-links:first-child {
+  margin-right: 18px;
+}
