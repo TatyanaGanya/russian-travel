@@ -1,0 +1,19 @@
+.footer__colums {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .footer__colums {
+    display: block;
+    margin-bottom: 32px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .footer__colums {
+    display: block;
+    margin-bottom: 48px;
+  }
+}

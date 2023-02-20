@@ -1,0 +1,12 @@
+.header__lang-links {
+  cursor: pointer;
+  margin-top: 16px;
+  max-height: 30px;
+
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-links {
+    margin-top: 14px;
+  }
+}

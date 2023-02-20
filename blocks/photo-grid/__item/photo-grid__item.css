@@ -1,0 +1,7 @@
+.photo-grid__item {
+  width: 100%;
+  justify-self: center;
+  object-fit: cover;
+  object-position: left;
+  aspect-ratio: 4/3;
+}

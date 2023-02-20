@@ -1,7 +1,10 @@
 .page {
-  max-width: 1280px;
   background: #2A2C2F;
-  margin: 0 auto 0;
   padding: 0;
+  margin: 0 auto 0;
   color: #FFFFFF;
+  max-width: 1280px;
+  box-sizing: border-box;
+
 }
+
