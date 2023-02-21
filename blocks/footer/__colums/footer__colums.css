@@ -5,12 +5,6 @@
   padding: 0;
 }
 
-@media screen and (max-width: 768px) {
-  .footer__colums {
-    display: flex;
-    margin-bottom: 0;
-  }
-}
 @media screen and (max-width: 700px) {
   .footer__colums {
     display: block;

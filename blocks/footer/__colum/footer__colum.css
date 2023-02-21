@@ -1,8 +1,17 @@
+.footer__colum {
+  margin-right: 18px;
+}
+
+.footer__colum:last-child {
+  margin: 0;
+}
+
 @media screen and (max-width: 700px) {
   .footer__colum {
     margin: 0 0 32px;
   }
+
   .footer__colum:last-child {
-    margin: 0 0 48px;
+    margin: 0;
   }
 }

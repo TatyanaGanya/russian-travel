@@ -49,16 +49,11 @@
 
 @media screen and (max-width: 700px) {
   .cover__link {
-    min-height: 50vh;
-  }
-}
-@media screen and (max-width: 700px) {
-  .cover__link {
-    min-height: 380px;
+    min-height: 350px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
   .cover__link {
     min-height: 200px;
   }
