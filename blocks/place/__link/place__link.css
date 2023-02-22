@@ -3,18 +3,18 @@
   font-size: 18px;
   line-height: 122%;
   text-decoration-line: underline;
-  color: #FFFFFF;
+  color: #fff;
   list-style: none;
   margin: 0;
   padding: 0;
   transition: .8s;
   cursor: pointer;
-
 }
 
 .place__link:hover {
   opacity: .8;
 }
+
 @media screen and (max-width: 320px) {
   .place__link {
     max-width: 288px;

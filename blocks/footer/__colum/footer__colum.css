@@ -10,8 +10,4 @@
   .footer__colum {
     margin: 0 0 32px;
   }
-
-  .footer__colum:last-child {
-    margin: 0;
-  }
 }

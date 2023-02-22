@@ -7,8 +7,8 @@
   place-content: center;
   gap: 48px 40px;
   grid-template-areas:
-        "title webside"
-        "image paragraph";
+    "title webside"
+    "image paragraph";
 }
 
 .place:last-child {
@@ -30,14 +30,13 @@
   }
 }
 
-
 @media screen and (max-width: 600px) {
   .place {
     grid-template-areas:
-    "title"
-    "webside"
-    "image"
-    "paragraph";
+      "title"
+      "webside"
+      "image"
+      "paragraph";
     grid-template-columns: 1fr;
     gap: 32px;
     margin: 0 0 50px;
